@@ -1,0 +1,4 @@
+{
+  "baseURL": "https://www.google.com/",
+  "test_execution_environment": "browserstack"
+}

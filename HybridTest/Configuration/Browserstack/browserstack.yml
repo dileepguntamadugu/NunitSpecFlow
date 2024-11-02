@@ -1,0 +1,9 @@
+userName: dileepguntamadug_N1qwrS
+accessKey: 4u2mCcWeUVpM7jkpWzDo
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: chrome
+    browserVersion: latest
+buildName: browserstack build
+projectName: HybridTest

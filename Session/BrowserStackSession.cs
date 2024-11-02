@@ -14,8 +14,6 @@ public class BrowserStackSession
         browserstackOptions.Add("os", "osx");
         browserstackOptions.Add("os_version", "catalina");
         browserstackOptions.Add("browser", "chrome");  // allowed browsers are `chrome`, `edge`, `playwright-chromium`, `playwright-firefox` and `playwright-webkit`
-        /*browserstackOptions.Add("browserstack.username", "dileepguntamadug_N1qwrS");
-        browserstackOptions.Add("browserstack.accessKey", "4u2mCcWeUVpM7jkpWzDo");*/
         browserstackOptions.Add("browserstack.username", Environment.GetEnvironmentVariable("BROWSERSTACK_USERNAME"));
         browserstackOptions.Add("browserstack.accessKey", Environment.GetEnvironmentVariable("BROWSERSTACK_ACCESS_KEY"));
         string capsJson = JsonConvert.SerializeObject(browserstackOptions);

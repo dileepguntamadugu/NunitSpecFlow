@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridTest", "HybridTest\HybridTest.csproj", "{260D2694-D203-462F-A656-35F749F55FD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridTest", "HybridTest.csproj", "{260D2694-D203-462F-A656-35F749F55FD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

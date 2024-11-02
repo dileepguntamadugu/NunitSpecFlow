@@ -1,0 +1,35 @@
+name: Run Tests in Docker
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Build Docker image
+        run: docker build -t test-framework .
+
+      - name: Run tests
+        env:
+          BROWSERSTACK_USERNAME: ${{ secrets.BROWSERSTACK_USERNAME }}
+          BROWSERSTACK_ACCESS_KEY: ${{ secrets.BROWSERSTACK_ACCESS_KEY }}
+          BLOB_STORAGE_ADD_SAS_TOKEN: ${{ secrets.BLOB_STORAGE_ADD_SAS_TOKEN }}
+          BLOB_STORAGE_DELETE_SAS_TOKEN: ${{ secrets.BLOB_STORAGE_DELETE_SAS_TOKEN }}
+        run: |
+          docker run --rm \
+            -e BROWSERSTACK_USERNAME=${{ secrets.BROWSERSTACK_USERNAME }} \
+            -e BROWSERSTACK_ACCESS_KEY=${{ secrets.BROWSERSTACK_ACCESS_KEY }} \
+            -e BLOB_STORAGE_ADD_SAS_TOKEN=${{ secrets.BLOB_STORAGE_ADD_SAS_TOKEN }} \
+            -e BLOB_STORAGE_DELETE_SAS_TOKEN=${{ secrets.BLOB_STORAGE_DELETE_SAS_TOKEN }} \          
+            test-framework

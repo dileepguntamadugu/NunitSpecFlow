@@ -41,7 +41,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Content Include=".github\workflows\github_actions.yaml" />
+      <Content Include=".github\workflows\main.yaml" />
     </ItemGroup>
 
 </Project>

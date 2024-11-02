@@ -28,9 +28,4 @@ jobs:
           BLOB_STORAGE_ADD_SAS_TOKEN: ${{ secrets.BLOB_STORAGE_ADD_SAS_TOKEN }}
           BLOB_STORAGE_DELETE_SAS_TOKEN: ${{ secrets.BLOB_STORAGE_DELETE_SAS_TOKEN }}
         run: |
-          docker run --rm \
-          -e BROWSERSTACK_USERNAME=${{ secrets.BROWSERSTACK_USERNAME }} \
-          -e BROWSERSTACK_ACCESS_KEY=${{ secrets.BROWSERSTACK_ACCESS_KEY }} \
-          -e BLOB_STORAGE_ADD_SAS_TOKEN=${{ secrets.BLOB_STORAGE_ADD_SAS_TOKEN }} \
-          -e BLOB_STORAGE_DELETE_SAS_TOKEN=${{ secrets.BLOB_STORAGE_DELETE_SAS_TOKEN }} \
-          test-framework
+          docker run --rm -e BROWSERSTACK_USERNAME=${{ secrets.BROWSERSTACK_USERNAME }} -e BROWSERSTACK_ACCESS_KEY=${{ secrets.BROWSERSTACK_ACCESS_KEY }} -e BLOB_STORAGE_ADD_SAS_TOKEN=${{ secrets.BLOB_STORAGE_ADD_SAS_TOKEN }} -e BLOB_STORAGE_DELETE_SAS_TOKEN=${{ secrets.BLOB_STORAGE_DELETE_SAS_TOKEN }} test-framework

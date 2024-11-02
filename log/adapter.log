@@ -1,0 +1,42 @@
+2024-10-29 07:31:00.4931|INFO|BStack.VisualStudio.TestAdapter.BStackAdapter|nunit test started from CLI
+2024-10-29 07:31:00.4991|INFO|A.b|Setting test assembly Path - /Users/dileep/RiderProjects/HybridTest/HybridTest/bin/Debug/net8.0/HybridTest.dll
+2024-10-29 07:31:01.8979|INFO|A.b|Exec: dotnet browserstack-sdk --skip-build-browserstack "/Users/dileep/RiderProjects/HybridTest/HybridTest/bin/Debug/net8.0/HybridTest.dll"
+2024-10-29 07:31:01.8979|INFO|A.b|134 : 
+2024-10-29 07:31:00.7838|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 33421
+2024-10-29 07:31:00.8338|INFO|browserstack_sdk.utils|Using dotnet: /usr/local/share/dotnet/dotnet
+2024-10-29 07:31:01.7913|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-29 07:31:01.7913|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-29 07:31:01.7913|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-29 07:31:01.7918|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-29 07:31:01.8814|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.403
+2024-10-29 07:31:01.8878|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+
+Unhandled exception. System.Exception: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 948
+
+2024-10-29 07:31:01.9024|INFO|A.b|Cleaning up adapter
+2024-10-29 07:43:18.2538|INFO|BStack.VisualStudio.TestAdapter.BStackAdapter|nunit test started from CLI
+2024-10-29 07:43:18.2600|INFO|A.b|Setting test assembly Path - /Users/dileep/RiderProjects/HybridTest/HybridTest/bin/Debug/net8.0/HybridTest.dll
+2024-10-29 07:43:19.5817|INFO|A.b|Exec: dotnet browserstack-sdk --skip-build-browserstack "/Users/dileep/RiderProjects/HybridTest/HybridTest/bin/Debug/net8.0/HybridTest.dll"
+2024-10-29 07:43:19.5817|INFO|A.b|134 : 
+2024-10-29 07:43:18.5113|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 35708
+2024-10-29 07:43:18.5285|INFO|browserstack_sdk.utils|Using dotnet: /usr/local/share/dotnet/dotnet
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-29 07:43:19.5682|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.403
+2024-10-29 07:43:19.5719|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+
+Unhandled exception. System.Exception: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 948
+
+2024-10-29 07:43:19.5860|INFO|A.b|Cleaning up adapter

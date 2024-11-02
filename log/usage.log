@@ -1,0 +1,341 @@
+2024-10-27 22:10:12.2129|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:10:13.2047|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:10:13.2047|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:10:13.2047|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:10:13.2057|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:10:13.3005|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:10:13.3834|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:12:08.0261|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:12:08.9832|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:12:08.9832|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:12:08.9832|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:12:08.9832|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:12:09.0752|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:12:09.1707|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:12:35.1990|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:12:36.1187|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:12:36.1187|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:12:36.1187|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:12:36.1187|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:12:36.2149|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:12:36.3000|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:15:08.0674|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:15:08.9882|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:15:08.9882|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:15:08.9882|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:15:08.9891|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:15:09.0781|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:15:09.1670|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:15:15.0860|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:15:15.9920|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:15:15.9920|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:15:15.9920|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:15:15.9929|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:15:16.0872|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:15:16.1675|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:21:07.0712|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:21:07.9795|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:21:07.9795|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:21:07.9795|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:21:07.9795|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:21:08.0685|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:21:08.1545|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:22:10.1821|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:22:11.0908|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:22:11.0908|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:22:11.0908|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:22:11.0917|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:22:11.1871|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:22:11.2734|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:25:36.5097|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:25:37.4362|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:25:37.4362|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:25:37.4362|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:25:37.4362|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:25:37.5279|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:25:37.6151|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:25:49.9085|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:25:50.8503|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:25:50.8503|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:25:50.8503|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:25:50.8503|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:25:50.9475|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:25:51.0370|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:28:14.0572|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:28:14.9904|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:28:14.9904|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:28:14.9904|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:28:14.9913|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:28:15.0807|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:28:15.1674|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:28:24.3551|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:28:25.2602|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:28:25.2602|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:28:25.2602|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:28:25.2611|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:28:25.3509|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:28:25.4296|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:29:38.0001|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:29:38.9304|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:29:38.9304|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:29:38.9304|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:29:38.9304|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:29:39.0236|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:29:39.1105|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:29:48.9341|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:29:49.8491|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:29:49.8491|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:29:49.8491|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:29:49.8503|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:29:49.9450|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:29:50.0245|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:32:40.5450|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:32:41.4641|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:32:41.4641|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:32:41.4641|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:32:41.4641|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:32:41.5581|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:32:41.6416|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:33:59.9324|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-27 22:34:00.8452|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-27 22:34:00.8452|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-27 22:34:00.8452|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-27 22:34:00.8452|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-27 22:34:00.9377|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-27 22:34:01.0227|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 20:59:59.1098|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:00:00.1127|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:00:00.1127|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:00:00.1127|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:00:00.1127|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:00:00.1939|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:00:00.2002|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 21:00:16.0870|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:00:16.9935|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:00:16.9935|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:00:16.9935|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:00:16.9935|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:00:17.0836|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:00:17.0900|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 21:01:17.5443|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:01:18.5010|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:01:18.5010|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:01:18.5010|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:01:18.5010|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:01:18.5990|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:01:18.6053|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 21:04:55.8649|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:04:56.8043|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:04:56.8043|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:04:56.8043|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:04:56.8048|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:04:56.9038|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:04:56.9100|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 21:08:03.7818|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:08:04.7038|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:08:04.7038|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:08:04.7038|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:08:04.7049|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:08:04.7989|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:08:04.8049|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 21:41:35.7102|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:41:36.6232|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:41:36.6232|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:41:36.6232|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:41:36.6237|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:41:36.7187|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:41:36.7255|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 21:43:01.9790|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:43:02.8947|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:43:02.8954|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:43:02.8954|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:43:02.8954|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:43:02.9824|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:43:02.9888|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 21:56:13.1392|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 21:56:14.0678|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 21:56:14.0678|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 21:56:14.0678|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 21:56:14.0678|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 21:56:14.1567|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 21:56:14.1633|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 22:06:00.6403|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 22:06:01.5576|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 22:06:01.5576|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 22:06:01.5576|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 22:06:01.5587|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 22:06:01.6505|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 22:06:01.6566|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 22:34:46.0238|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 22:34:46.9621|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 22:34:46.9621|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 22:34:46.9621|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 22:34:46.9621|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 22:34:47.0571|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 22:34:47.0630|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 22:59:09.1942|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 22:59:10.1136|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 22:59:10.1136|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 22:59:10.1136|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 22:59:10.1147|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 22:59:10.2056|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 22:59:10.2117|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:03:03.4564|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:03:04.4716|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:03:04.4723|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:03:04.4723|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:03:04.4723|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:03:04.5664|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:03:04.5712|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:04:40.7964|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:04:41.7020|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:04:41.7020|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:04:41.7020|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:04:41.7025|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:04:41.7928|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:04:41.7994|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:05:05.4848|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:05:06.4296|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:05:06.4296|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:05:06.4296|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:05:06.4296|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:05:06.5286|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:05:06.5345|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:06:32.6347|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:06:33.6838|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:06:33.6838|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:06:33.6838|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:06:33.6838|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:06:33.7747|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:06:33.7808|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:09:14.8481|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:09:15.7844|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:09:15.7844|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:09:15.7844|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:09:15.7849|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:09:15.8793|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:09:15.8853|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:10:05.9986|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:10:06.9881|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:10:06.9881|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:10:06.9881|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:10:06.9881|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:10:07.0871|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:10:07.0922|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:14:52.7807|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:14:53.6955|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:14:53.6955|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:14:53.6955|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:14:53.6955|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:14:53.7819|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:14:53.7882|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:15:02.4446|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:15:03.3848|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:15:03.3855|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:15:03.3855|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:15:03.3855|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:15:03.4776|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:15:03.4817|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:30:55.6000|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:30:56.5583|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:30:56.5591|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:30:56.5591|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:30:56.5591|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:30:56.6561|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:30:56.6625|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:32:20.9853|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:32:21.9182|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:32:21.9182|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:32:21.9182|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:32:21.9193|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:32:22.0166|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:32:22.0227|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:39:06.9642|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:39:07.8859|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:39:07.8859|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:39:07.8859|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:39:07.8859|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:39:07.9778|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:39:07.9831|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-28 23:41:02.6002|INFO|browserstack_sdk.utils|Using dotnet: /Users/dileep/.dotnet/dotnet
+2024-10-28 23:41:03.5404|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-28 23:41:03.5413|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-28 23:41:03.5413|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-28 23:41:03.5413|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-28 23:41:03.6328|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.401
+2024-10-28 23:41:03.6387|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-29 07:31:00.7838|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 33421
+2024-10-29 07:31:00.8338|INFO|browserstack_sdk.utils|Using dotnet: /usr/local/share/dotnet/dotnet
+2024-10-29 07:31:01.7913|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-29 07:31:01.7913|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-29 07:31:01.7913|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-29 07:31:01.7918|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-29 07:31:01.8814|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.403
+2024-10-29 07:31:01.8878|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-29 07:43:16.5112|INFO|browserstack_sdk.utils|Using dotnet: /usr/local/share/dotnet/dotnet
+2024-10-29 07:43:17.4414|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-29 07:43:17.4414|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-29 07:43:17.4422|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-29 07:43:17.4422|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-29 07:43:17.5269|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.403
+2024-10-29 07:43:17.5331|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591
+2024-10-29 07:43:18.5113|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 35708
+2024-10-29 07:43:18.5285|INFO|browserstack_sdk.utils|Using dotnet: /usr/local/share/dotnet/dotnet
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Detected Selenium version 4.25.0
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Detected Playwright version 1.48.0
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Detected Appium version 6.0.0
+2024-10-29 07:43:19.4717|INFO|browserstack_sdk.Program|Running for f/w nunit 3.14.0
+2024-10-29 07:43:19.5682|INFO|browserstack_sdk.Program|Detected dotnet version 8.0.403
+2024-10-29 07:43:19.5719|ERROR|browserstack_sdk.Program|Uncaught exception occured: System.Exception: Config file does not exist at any parent directory of . Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+   at browserstack_sdk.YamlParser.parse(String browserStackConfigFilePath, JObject cliArgs, String projectDir) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\ParseYaml.cs:line 654
+   at browserstack_sdk.Program.Main(String[] args) in D:\a\browserstack-csharp-sdk\browserstack-csharp-sdk\run-browserstack\browserstack-sdk\Program.cs:line 591

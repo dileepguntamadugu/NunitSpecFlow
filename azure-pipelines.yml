@@ -8,13 +8,6 @@ trigger:
 resources:
 - repo: self
 
-variables:
-  tag: '$(Build.BuildId)'
-  BROWSERSTACK_USERNAME: ''
-  BROWSERSTACK_ACCESS_KEY: ''
-  BLOB_STORAGE_ADD_SAS_TOKEN: ''
-  BLOB_STORAGE_DELETE_SAS_TOKEN: ''
-
 stages:
 - stage: Build
   displayName: Build image

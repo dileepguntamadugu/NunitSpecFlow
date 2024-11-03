@@ -10,6 +10,10 @@ resources:
 
 variables:
   tag: '$(Build.BuildId)'
+  BROWSERSTACK_USERNAME: ''
+  BROWSERSTACK_ACCESS_KEY: ''
+  BLOB_STORAGE_ADD_SAS_TOKEN: ''
+  BLOB_STORAGE_DELETE_SAS_TOKEN: ''
 
 stages:
 - stage: Build
@@ -25,10 +29,10 @@ stages:
       displayName: 'Build Docker image'
     - script: |
         docker run --rm \
-          -e BROWSERSTACK_USERNAME=$(BROWSERSTACK_USERNAME) \
-          -e BROWSERSTACK_ACCESS_KEY=$(BROWSERSTACK_ACCESS_KEY) \
-          -e BLOB_STORAGE_ADD_SAS_TOKEN=$(BLOB_STORAGE_ADD_SAS_TOKEN) \
-          -e BLOB_STORAGE_DELETE_SAS_TOKEN=$(BLOB_STORAGE_DELETE_SAS_TOKEN) \
+          -e BROWSERSTACK_USERNAME="$(BROWSERSTACK_USERNAME)" \
+          -e BROWSERSTACK_ACCESS_KEY="$(BROWSERSTACK_ACCESS_KEY)" \
+          -e BLOB_STORAGE_ADD_SAS_TOKEN="$(BLOB_STORAGE_ADD_SAS_TOKEN)" \
+          -e BLOB_STORAGE_DELETE_SAS_TOKEN="$(BLOB_STORAGE_DELETE_SAS_TOKEN)" \
           test-framework
       displayName: 'Run tests'
       env:

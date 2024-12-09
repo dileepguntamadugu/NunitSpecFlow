@@ -1,6 +1,7 @@
 using Microsoft.Extensions.Configuration;
 using System.IO;
 using Microsoft.Playwright;
+using OpenQA.Selenium.Appium;
 
 namespace HybridTest.Session
 {
@@ -10,6 +11,7 @@ namespace HybridTest.Session
         public int Timeout { get; private set; }
         public string TestExecutionEnvironment { get; private set; }
         public Task<IBrowser> Browser { get; private set; }
+        public AppiumOptions AppiumOptions { get; private set; }
         private PlaywrightSession _playwrightSession = new PlaywrightSession();
         private BrowserStackSession _browserStackSession = new BrowserStackSession();
 
@@ -23,7 +25,9 @@ namespace HybridTest.Session
                 .Build();
             BaseUrl = configuration["baseURL"];
             TestExecutionEnvironment = configuration["test_execution_environment"] ?? "browserstack"; //defaults to execute on Browserstack
-            Browser = TestExecutionEnvironment.ToLower().Equals("playwright") ? _playwrightSession.GetPlaywrightSession() : _browserStackSession.GetBrowserStackSession();
+            //Browser = TestExecutionEnvironment.ToLower().Equals("playwright") ? _playwrightSession.GetPlaywrightSession() : _browserStackSession.GetBrowserStackSession();
+            AppiumOptions = _browserStackSession.GetAndroidBrowserStackSession();  
+
         }
     }
 }

@@ -1,9 +1,9 @@
-using System.Text.RegularExpressions;
-using Allure.Net.Commons;
-using HybridTest.Session;
-using Microsoft.Playwright;
-using Microsoft.Playwright.NUnit;
 using Allure.NUnit;
+using OpenQA.Selenium.Remote;
+using OpenQA.Selenium.Appium;
+using OpenQA.Selenium.Appium.Android;
+using HybridTest.Session;
+using OpenQA.Selenium;
 
 
 namespace HybridTest.Tests
@@ -11,47 +11,41 @@ namespace HybridTest.Tests
     [TestFixture]
     [Category("Hybrid")]
     [AllureNUnit]
-    public class NunitPlaywright : PageTest
+    public class AndroidTest 
     {
-        private IBrowser _browser;
-        private IPage _page;
+        private AppiumOptions options;
+        protected AppiumDriver driver; 
         
         [SetUp]
-        public async Task Setup()
+        public void Setup()
         {
             var testExecutionContext = new TestExecutionContext();
-            _browser = await testExecutionContext.Browser;
-            TestContext.Progress.WriteLine($"Running tests against {testExecutionContext.BaseUrl} with timeout {testExecutionContext.Timeout}");
-            _page = await _browser.NewPageAsync();
+            options = testExecutionContext.AppiumOptions;
+            driver = new AndroidDriver(new Uri("https://hub-cloud.browserstack.com/wd/hub"), options);
+            Console.WriteLine("Setup");
         }
 
         [TearDown]
-        public async Task Teardown()
+        public void Teardown()
         {
-            if (TestContext.CurrentContext.Result.Outcome.Status == NUnit.Framework.Interfaces.TestStatus.Failed)
-            {
-                // Capture screenshot on failure
-                string screenshotPath = Path.Combine(TestContext.CurrentContext.WorkDirectory, $"screenshot_{TestContext.CurrentContext.Test.Name}.png");
-                await _page.ScreenshotAsync(new PageScreenshotOptions { Path = screenshotPath });
-                // Attach screenshot to Allure report
-                AllureApi.AddAttachment(
-                    "Screenshot on failure", 
-                    "image/png", 
-                    screenshotPath);
-            }
-            await _browser.CloseAsync();
+            driver.Quit();
+            driver.Dispose(); 
         }
 
         [Test]
-        public async Task NavigateToGoogleHomePage()
+        public void OpenNewsApp()
         {
-            // Use the already initialized _page
-            await _page.GotoAsync("https://www.google.com/");
-            Console.WriteLine(await _page.TitleAsync());
-            await _page.FillAsync("[id='APjFqb']","What is Playwright?");
-            await _page.Keyboard.PressAsync("Enter");
-            // Example assertion to verify navigation
-            await Expect(_page).ToHaveTitleAsync(new Regex("What is Playwright?"));
+            Console.WriteLine("TestMethod");
+            if (driver == null)
+            {
+                throw new InvalidOperationException("Driver is not initialized. Check the setup process.");
+            }        
+            AppiumElement skipElement = driver.FindElement(By.XPath("//android.widget.TextView[@text=\"Skip\"]"));
+            if (skipElement == null)
+            {
+                Console.WriteLine("SkipElement is null");
+            }
+            skipElement.Click();
         }
     }
 }

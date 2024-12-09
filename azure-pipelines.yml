@@ -34,3 +34,11 @@ stages:
         BLOB_STORAGE_ADD_SAS_TOKEN: $(BLOB_STORAGE_ADD_SAS_TOKEN)
         BLOB_STORAGE_DELETE_SAS_TOKEN: $(BLOB_STORAGE_DELETE_SAS_TOKEN)
 
+- task: PowerShell@2
+  displayName: "Add Link to Build Summary"
+  inputs:
+    targetType: 'inline'
+    script: |
+      # Add link to build summary
+      $reportUrl = "https://cosmosreports.blob.core.windows.net/automationreports/hybridtests/allure-report/index.html"
+      Write-Host "##vso[task.addattachment type=Distributedtask.Core.Summary;name=Test Results Report]$reportUrl"
